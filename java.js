@@ -31,9 +31,12 @@
 // }
 
 
-function printSum(a, b)
-let numer1 = (a) ;
-let number2 = (b)
-    document.write()
+function printSum(a, b){
+    printLine(a + b);
+}
+  printSum(10,15);
+  printSum(-5, 5);
+  printSum(-10, -10);
+  
  
 
