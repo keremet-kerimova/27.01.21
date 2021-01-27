@@ -21,11 +21,19 @@
 // Exercise #1
 
 
-function printMax(a, b) {
-    if (a < b){
-    printLine(b);
-    }
-    else {
-    printLine(a);
-}
-}
+// function printMax(a, b) {
+//     if (a < b){
+//     printLine(b);
+//     }
+//     else {
+//     printLine(a);
+// }
+// }
+
+
+function printSum(a, b)
+let numer1 = (a) ;
+let number2 = (b)
+    document.write()
+ 
+
